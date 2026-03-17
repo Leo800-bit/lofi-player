@@ -1,0 +1,5 @@
+// To install the latest version of @openai/codex globally using npm, run:
+npm install -g @openai/codex@latest
+
+// Set the OPENAI_API_KEY_0011AI environment variable in PowerShell:
+$env:OPENAI_API_KEY_0011AI = "sk-clY1d9ed8a21a8e5ea8caf031edfa7f04de467eb92ekdp7T"
